@@ -6,4 +6,4 @@ This theme can be activated by going to downloading it from the Atom Theme direc
 
 **Note:** The syntax colors are independent of the UI theme.
 
-![](https://raw.githubusercontent.com/room316studios/bellhop-dark-ui/master/screenshot.png)
+![](https://raw.githubusercontent.com/justinhough/chocolate-latte-ui/master/screenshot.png)

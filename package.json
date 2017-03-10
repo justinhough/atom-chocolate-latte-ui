@@ -1,7 +1,7 @@
 {
   "name": "chocolate-latte-ui",
   "theme": "ui",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Custom dark theme for developers who like Chocolate Lattes and Atom.",
   "license": "MIT",
   "repository": "https://github.com/justinhough/chocolate-latte-ui",
